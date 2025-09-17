@@ -1,0 +1,222 @@
+{
+  "titre": "transformations du droit",
+  "theme": "l’humain à la main de l’IA.",
+  "objectif": "Congrès regroupant les métiers du droit pour discuter sur des thématiques importantes dans ce domaine",
+  "programme": {
+    "url": "https://www.transformations-droit.com/spip.php?page=plan",
+    "jour1": [
+      {
+        "sujet": "Réunion privée du FLIT Network, le réseau des juristes dans la tech et en startup",
+        "emplacement": "Salle Ateliers 3 niveau -3",
+        "date": "2025-11-25",
+        "heures": "08:30",
+        "description": "Accessible uniquement aux membres du réseau FLIT."
+      },
+      {
+        "sujet": "L'IA au service des fonctions juridiques - Stratégies & perspectives.",
+        "emplacement": "Amphi Louis Armand Est (niveau -3)",
+        "date": "2025-11-25",
+        "heures": "09:45",
+        "description": "L'intelligence artificielle n'est plus un concept futuriste, elle est une réalité qui redéfinit le paysage juridique. Rejoignez cette table ronde pour explorer ensemble les stratégies et les perspectives de l'IA dans la modernisation de la fonction juridique.\r\nCette session sera l'occasion d'échanger avec nos experts sur les défis et opportunités que présente l'intégration de l'IA dans vos pratiques quotidiennes :\r\n- Gestion des risques et de la conformité \r\n- Évolution du rôle du juriste de demain\r\n- Enjeux éthiques et réglementaires liés à l’IA.\r\nRejoignez Docusign, EY et ID Logistics pour une discussion enrichissante et pragmatique sur l’évolution des métiers du droit à l’ère de l’intelligence artificielle.\r\nIntervenants:\r\n- Coraline Niel, EMEA Legal Counsel - Docusign\r\n- Jean-Noël Lorenzoni, Directeur Juridique - ID Logistics\r\n- Arthur Sauzé, Head of Legal Operations Consulting - EY."
+      },
+      {
+        "sujet": "TransfoTax2025: la transformation de la fiscalité avec la techno.",
+        "emplacement": "Amphi Louis Armand Ouest (niveau -3)",
+        "date": "2025-11-25",
+        "heures": "10:00",
+        "description": ""
+      },
+      {
+        "sujet": "Avocats: Réinventez votre pratique à travers l’expérience client",
+        "emplacement": "Salle A (niveau -2)",
+        "date": "2025-11-25",
+        "heures": "10:00",
+        "description": "Chez Solution by HF, nous avons repensé en profondeur la manière dont un cabinet d’avocats conseil en droit des affaires peut offrir une expérience client différenciante.\r\nCette intervention propose un retour d’expérience opérationnel fondé sur la présentation des outils, méthodes et process concrets, créées, testés et approuvés par des avocats pour des avocats.\r\nUne vision incarnée d’un accompagnement juridique qui conjugue performance, lisibilité et relation de confiance.\r\nIntervenant : François Fagot, avocat président de la société HF SOLUTION."
+      },
+      {
+        "sujet": "Atelier Calame",
+        "emplacement": "Forum Legaltech Est (niveau -1)",
+        "date": "2025-11-25",
+        "heures": "10:30",
+        "description": ""
+      },
+      {
+        "sujet": "Piloter la conformité dans l’impermanence: la gouvernance de demain",
+        "emplacement": "Amphi Louis Armand Est (niveau -3)",
+        "date": "2025-11-25",
+        "heures": "10:45",
+        "description": "Chaque année, l’Union européenne adopte en moyenne plus de 80 textes législatifs majeurs. De quoi donner le tournis aux directions juridiques et de conformité. Dans cet océan de nouvelles obligations, viser le 100 % conformité est illusoire : il faut désormais apprendre à arbitrer, prioriser et piloter en continu.\r\nCette session mettra en lumière :\r\n- Les impacts concrets des nouvelles réglementations européennes sur la gouvernance et la conformité ;\r\n- Comment prioriser et négocier la conformité dans un contexte où le 100% n’existe pas ;\r\n- Le rôle des outils de monitoring et de centralisation des données pour rester agile face aux turbulences réglementaires ;\r\n- L’importance d’une gouvernance ouverte, protectrice et éthique, où l’humain reste au cœur des décisions.\r\nIntervenants :\r\n- Sarah Acharhabi, [Diligent->https://www.linkedin.com/in/sarahacharhabi/]\r\n- Sabine Van Haecke Lepic, [avocate->https://www.linkedin.com/in/sabine-van-haecke-lepic/]."
+      },
+      {
+        "sujet": "Ordalie: Anatomie d’une IA juridique.",
+        "emplacement": "Amphi Louis Armand Ouest (niveau -3)",
+        "date": "2025-11-25",
+        "heures": "11:00",
+        "description": "Entre fantasmes et procès d’intention, l’IA appliquée au droit mérite une mise au point. Pas de poudre de perlinpinpin, pas de promesse creuse : des usages concrets, des limites claires mais aussi des bonnes surprises. L’objectif de cette conférence est de vous donner un tour d’horizon sans complaisance des capacités actuelles de l’IA appliquée au domaine juridique.\r\nPlusieurs thèmes seront abordés :\r\n- Quid des hallucinations : jusqu’où peut-on se fier aux réponses de l’IA et comment en garantir la fiabilité ?\r\nIA générative versus analytique : que fait chaque type d’IA et dans quels cas les utiliser ?\r\n- Entraînement de nos modèles : comment sont-ils construits, avec quelles données et quel contrôle qualité ?\r\n- Qu’en est-il de la confidentialité et de la sécurité des données : que deviennent vos données et comment rester conforme à vos obligations de déontologie ?\r\n- Faut-il vraiment maîtriser le « prompting » pour utiliser efficacement une IA juridique ?\r\nIntervenants :\r\n- Léa Fleury (CEO)\r\n- Baudouin Arbalétrier (CTO), co-fondateurs d’Ordalie."
+      },
+      {
+        "sujet": "La rédaction et révision de contrats à l’aide de l’IA: jusqu’où peut-on vraiment aller ?",
+        "emplacement": "Forum Legaltech Est (niveau S-1)",
+        "date": "2025-11-25",
+        "heures": "11:00",
+        "description": "Cette session se penche sur des cas réels pour montrer où l’IA est efficace et où elle ne l’est pas. Vous découvrirez des exemples concrets de rédaction de clauses assistée par l’IA et apprendrez dans quels domaines l’intervention humaine reste indispensable. Nous vous donnerons également des conseils pratiques pour aider votre équipe  à adopter ces outils plus rapidement et plus efficacement."
+      },
+      {
+        "sujet": "Démonstration et pitchs d'acteur de la TaxTech",
+        "emplacement": "Forum Legaltech Est (niveau -1)",
+        "date": "2025-11-25",
+        "heures": "11:15",
+        "description": ""
+      },
+      {
+        "sujet": "De la théorie à la pratique: comment les professionnels du droit utilisent Jimini au quotidien.",
+        "emplacement": "Forum Legaltech Est (niveau -1)",
+        "date": "2025-11-25",
+        "heures": "12:00",
+        "description": "Nous aidons les cabinets d’avocats et les directions juridiques à gagner du temps en renforçant leurs équipes et en automatisant les tâches les plus chronophages: révision de documents, analyse de contrats, recherche juridique sourcée et rédaction assistée. Découvrez ces cas d'usages concrets pendant cette formation.\r\nIntervenant: Raphaël Arroche, Co-founder, CEO."
+      },
+      {
+        "sujet": "Conférence Gino Legaltech",
+        "emplacement": "Amphi Gaston Berger (niveau S-2)",
+        "date": "2025-11-25",
+        "heures": "12:00",
+        "description": ""
+      },
+      {
+        "sujet": "Les illuminés du droit",
+        "emplacement": "Forum Trajectoires professionnelles niveau -1",
+        "date": "2025-11-25",
+        "heures": "12:00",
+        "description": "Conférence de témoignages de juristes inspirés, passionnés et visionnaires, qui réinventent les pratiques juridiques. À travers des portraits captivants, découvrez des professionnels engagés qui abordent le droit autrement, en mêlant créativité, innovation et expertise.\r\nAnimé par Stéphane Baller pour Open Law, en partenariat avec Lamy Liaisons ([chaine ici->https://www.lamy-liaisons.fr/communaute/emissions/illumines-du-droit/])."
+      },
+      {
+        "sujet": "Dématérialisation de vos registres d’entreprises et de vos assemblées générales : gagnez en temps, sécurité et conformité grâce à Izikap.",
+        "emplacement": "Forum Legaltech Ouest (niveau S-1)",
+        "date": "2025-11-25",
+        "heures": "14:00",
+        "description": "Cet atelier a pour objectif de vous montrer, de manière concrète à travers une démonstration, comment Izikap permet à votre cabinet ou entreprise de :\r\n- Gagner du temps dans la gestion de vos registres de mouvements de titres\r\n- Analyser rapidement et en temps réel vos données avec une table de capitalisation dynamique\r\n- Simplifier la gestion de vos assemblées générales de la convocation à l’archivage des registres de décisions\r\n- Sécuriser et garantir la traçabilité de vos opérations et documents avec l’ancrage en blockchain.\r\nDécouvrez avec notre expert, toutes les fonctionnalités clés et essentielles à la dématérialisation de vos registres légaux et comment Izikap optimise et sécurise vos processus internes.\r\nIntervenant: Matteo IANNIELLO – Business Developer Izikap."
+      },
+      {
+        "sujet": "Droit, cybersécurité, IA: sécuriser la pratique juridique sans freiner l’innovation",
+        "emplacement": "Amphi Louis Armand Est (niveau -3)",
+        "date": "2025-11-25",
+        "heures": "14:00",
+        "description": "La digitalisation transforme profondément les pratiques juridiques, notamment avec l’essor d'outils collaboratifs, du cloud et de l'IA générative. Ces nouvelles technologies ouvrent des opportunités, mais posent aussi des défis cruciaux en matière de sécurité des données, de confidentialité et de conformité. Comment les professionnels du droit peuvent-ils faire les bons choix d’outils ? Bricklead Legal propose une discussion croisée entre un avocat expert cybersécurité et un expert en IA juridique, pour partager des retours d’expérience concrets, des bonnes pratiques et des conseils simples pour sécuriser son quotidien numérique sans renoncer à l’innovation.\r\nIntervenants :\r\n- Jean-Nicolas Robin \r\n- Maxime Voisin\r\n- Batiste Quentin."
+      },
+      {
+        "sujet": "Comment construire en quelques minutes des dizaines d'agents IA pour sa DJ ou cabinet d'avocats",
+        "emplacement": "Forum Legaltech Est (niveau -1)",
+        "date": "2025-11-25",
+        "heures": "14:00",
+        "description": ""
+      },
+      {
+        "sujet": "Du juridique au stratégique: le GC moteur de la performance",
+        "emplacement": "Amphi Gaston Berger (niveau -2)",
+        "date": "2025-11-25",
+        "heures": "14:00",
+        "description": "Dans un contexte de transformation digitale et de complexité réglementaire, le Directeur Juridique devient un véritable partenaire stratégique. Cette table ronde montrera comment l’IA et les LegalTech permettent au GC de passer du réactif au proactif et de devenir un moteur de performance pour l’entreprise."
+      },
+      {
+        "sujet": "Comment l’IA révolutionne la gestion des contrats (CLM)",
+        "emplacement": "Forum Legaltech Est (niveau -1)",
+        "date": "2025-11-25",
+        "heures": "14:30",
+        "description": "Participez à ce court atelier pratique pour découvrir comment Docusign CLM, à travers la puissance de l’IA, optimise chaque étape du cycle contractuel. Vous découvrirez notamment comment :\r\n- Accélérer la révision des contrats \r\n- Extraire les obligations clés \r\n- Bénéficier d'une vue unifiée de tous les contrats.\r\nRejoignez-nous pour voir en action des solutions innovantes au service de votre gestion contractuelle."
+      },
+      {
+        "sujet": "De copilote à autopilote, la première IA juridique 100% autonome",
+        "emplacement": "Salle A (niveau S-2)",
+        "date": "2025-11-25",
+        "heures": "14:45",
+        "description": "Et si l’intelligence artificielle n'était plus seulement un copilote mais un véritable autopilote du droit ?\r\nDans cet atelier immersif, découvrez Autolex, la première IA juridique capable d’analyser et modifier un contrat de bout en bout, sans intervention humaine, tout en s’adossant en temps réel aux dernières sources de droit et à votre politique contractuelle.\r\nPendant 25 minutes, nous vous plongeons dans un cas pratique interactif où Autolex démontre son autonomie :\r\n- Identification des clauses à risque;\r\n- Proposition de modifications juridiques pertinentes et contextualisées;\r\n- Mise à jour automatique selon les textes légaux et jurisprudentiels les plus récents.\r\nPensé pour les directions juridiques, les cabinets d’avocats, les legal ops et toutes les fonctions où le contrat est central, Autolex repousse les limites de la legaltech : plus rapide, plus fiable, plus intelligent. Une révolution en pilotage automatique, à découvrir en live.\r\nIntervenant: Benoît Mazzetti, co-fondateur et CEO."
+      },
+      {
+        "sujet": "IA et retranscription: les nouveaux assistants des cabinets juridiques",
+        "emplacement": "Forum Legaltech Est (niveau -3)",
+        "date": "2025-11-25",
+        "heures": "15:15",
+        "description": "Vous passez des heures à reformuler vos entretiens, synthétiser vos échanges ou retrouver un détail dans une conversation ? Et si un assistant virtuel pouvait le faire à votre place — en temps réel, sans perturber votre manière de travailler ?\r\nLors de cet atelier, découvrez comment les cabinets juridiques exploitent l’IA conversationnelle pour :\r\n-* retranscrire automatiquement leurs appels\r\n-* générer des résumés intelligents\r\n-* analyser les ressentis et les sujets évoqués\r\n-* et même anticiper les prochaines actions à mener.\r\n\r\nMais ce n’est pas tout, grâce à l’agent vocal, véritable assistant d’accueil intelligent, vous pouvez répondre à vos clients même en rendez-vous ou en déplacement. Le standard vocal IA traite les appels, confirme les rendez-vous et transfère même les conversations au bon interlocuteur.  Un changement discret, mais décisif dans la gestion de la relation client et dans la valorisation du temps passé en échange."
+      },
+      {
+        "sujet": "Atelier Luminance – IA juridique intégrale",
+        "emplacement": "Forum Legaltech Ouest (niveau -1)",
+        "date": "2025-11-25",
+        "heures": "15:45",
+        "description": "Rejoignez Luminance pour une démonstration en direct de leur plateforme d'IA pour l'automatisation complète des contrats. Découvrez pourquoi les organisations mondiales - d'AMD à DHL, de LG à Staples - utilisent l'IA de qualité juridique de Luminance pour :\r\n- Découvrir les risques et opportunités cachés : Le référentiel alimenté par l'IA fournit une source unique de vérité pour tous les contrats, offrant une vue détaillée des données clés de l'entreprise telles que les obligations des fournisseurs.\r\n- Autonomiser les équipes commerciales – La révision de contrats en libre-service et le Q&R instantané dans l’ensemble du référentiel permettent aux équipes d'approvisionnement d'accélérer les négociations et de stimuler la croissance de l'entreprise.\r\n- Naviguer dans les négociations avec rapidité et confiance : Négociation de contrats alimentée par l'IA dans MS Word, y compris le « Mark-Up Automatique » des contrats de routine en un seul clic.\r\nIntervenant: Hippolyte Fouque, VP of France and Spain at Luminance."
+      },
+      {
+        "sujet": "La roadmap pour transformer sa direction juridique et booster sa performance",
+        "emplacement": "Amphi Louis Armand Est (niveau -3)",
+        "date": "2025-11-25",
+        "heures": "16:00",
+        "description": "Dans un contexte où les directions juridiques sont sommées de faire plus avec moins, la transformation n’est plus une option. Cette conférence proposerait une méthodologie claire et actionnable pour poser les fondations d’une transformation durable. (Vision, ambition, mission, objectifs, feuille de route de transformation). Nous partagerons une roadmap structurée autour de trois piliers : stratégie, culture et technologie. Objectif : faire monter en puissance la direction juridique, tout en maximisant sa valeur perçue au sein de l’organisation."
+      },
+      {
+        "sujet": "Dialogue: Réinventez votre recherche juridique avec l’IA",
+        "emplacement": "Salle A (niveau -2)",
+        "date": "2025-11-25",
+        "heures": "16:15",
+        "description": "Imaginez un outil qui répond à vos questions juridiques en temps réel, en s’appuyant uniquement sur la jurisprudence et les textes officiels, tout en garantissant la confidentialité de vos données. C’est Dialogue, la RAG juridique développée par Juri’Predis.\r\nDurant cet atelier, découvrez comment : \r\n- Gagner un temps précieux avec des réponses sourcées et fiables, \r\n- Travailler en toute sécurité grâce à une infrastructure conçue par et pour les professionnels du droit, \r\n- Utiliser les fonctionnalités de Dialogue lors de démonstrations interactives.\r\nIntervenant:  Maxime Voisin, Juriste et Product Owner."
+      }
+    ],
+    "jour2": [
+      {
+        "sujet": "Legaltech et Legal Ops: quand le juridique devient collaboratif",
+        "emplacement": "Amphi Louis Armand Est (niveau -3)",
+        "date": "2025-11-26",
+        "heures": "10:45",
+        "description": "Quel est le point commun entre les legaltech et les Legal Ops ? Les legaltech s'invitent de plus en plus dans les DJ et les Legal Ops contribuent à leur bon déploiement et utilisation. Mais l'histoire ne s'arrête pas là. A l'heure où les DJ doivent (re)trouver une place stratégique de business partner au sein des organisations, il est plus que jamais essentiel que le juridique devienne collaboratif. Toutes les parties prenantes de l'entreprise doivent être impliquées sur les enjeux juridiques. Parallèlement, la direction juridique doit faire valoir sa valeur ajoutée dans les différents départements. Et pour cela, le juridique doit devenir COLLABORATIF. Et c'est justement ce point commun entre Legaltech et Legal Ops que nous vous invitons à venir découvrir. \r\nIntervenants: \r\n- François Giroux (Clairio)\r\n- Steve Chrétien (Pills)\r\n- Jean-Marie Valentin (Legalcluster)\r\n- Nicolas Panis (DG de Legal Jedi)"
+      },
+      {
+        "sujet": "Dématérialisation de vos registres d’entreprises et de vos assemblées générales : gagnez en temps, sécurité et conformité grâce à Izikap.",
+        "emplacement": "Forum Legaltech Ouest (niveau S-1)",
+        "date": "2025-11-26",
+        "heures": "11:00",
+        "description": "Cet atelier a pour objectif de vous montrer, de manière concrète à travers une démonstration, comment Izikap permet à votre cabinet ou entreprise de :\r\n- Gagner du temps dans la gestion de vos registres de mouvements de titres\r\n- Analyser rapidement et en temps réel vos données avec une table de capitalisation dynamique\r\n- Simplifier la gestion de vos assemblées générales de la convocation à l’archivage des registres de décisions\r\n- Sécuriser et garantir la traçabilité de vos opérations et documents avec l’ancrage en blockchain.\r\nDécouvrez avec notre expert, toutes les fonctionnalités clés et essentielles à la dématérialisation de vos registres légaux et comment Izikap optimise et sécurise vos processus internes.\r\nIntervenant: Matteo IANNIELLO – Business Developer Izikap."
+      },
+      {
+        "sujet": "Les illuminés du droit",
+        "emplacement": "Forum Trajectoires professionnelles niveau -1",
+        "date": "2025-11-26",
+        "heures": "11:30",
+        "description": "Conférence de témoignages de juristes inspirés, passionnés et visionnaires, qui réinventent les pratiques juridiques. À travers des portraits captivants, découvrez des professionnels engagés qui abordent le droit autrement, en mêlant créativité, innovation et expertise.\r\nAnimé par Stéphane Baller pour Open Law, en partenariat avec Lamy Liaisons ([chaine ici->https://www.lamy-liaisons.fr/communaute/emissions/illumines-du-droit/])."
+      },
+      {
+        "sujet": "De la théorie à la pratique: comment les professionnels du droit utilisent Jimini au quotidien.",
+        "emplacement": "Forum Legaltech Ouest (niveau -1)",
+        "date": "2025-11-26",
+        "heures": "11:30",
+        "description": "Nous aidons les cabinets d’avocats et les directions juridiques à gagner du temps en renforçant leurs équipes et en automatisant les tâches les plus chronophages: révision de documents, analyse de contrats, recherche juridique sourcée et rédaction assistée. Découvrez ces cas d'usages concrets pendant cette formation.\r\nIntervenant: Raphaël Arroche, Co-founder, CEO."
+      },
+      {
+        "sujet": "Comment l’IA révolutionne la gestion des contrats (CLM)",
+        "emplacement": "Forum Legaltech Est (niveau -1)",
+        "date": "2025-11-26",
+        "heures": "11:30",
+        "description": "Participez à ce court atelier pratique pour découvrir comment Docusign CLM, à travers la puissance de l’IA, optimise chaque étape du cycle contractuel. Vous découvrirez notamment comment :\r\n- Accélérer la révision des contrats \r\n- Extraire les obligations clés \r\n- Bénéficier d'une vue unifiée de tous les contrats.\r\nRejoignez-nous pour voir en action des solutions innovantes au service de votre gestion contractuelle."
+      },
+      {
+        "sujet": "Données & IA: comment intégrer la gestion des risques dans vos pratiques ?",
+        "emplacement": "Amphi Louis Armand Est (niveau -3)",
+        "date": "2025-11-26",
+        "heures": "11:45",
+        "description": "Entre opportunités stratégiques et enjeux de conformité, l’exploitation des données et de l’IA soulève de nouveaux types de risques. Cette table ronde donnera la parole à des professionnels confrontés à ces défis au quotidien. Objectif : partager des retours d’expérience concrets sur l’identification, l’évaluation et la réduction des risques dans des projets mêlant data et intelligence artificielle.\r\n\r\nIntervenant : Thomas-Vini Pires, Privacy & AI Solution Expert, EQS Group."
+      },
+      {
+        "sujet": "Une communauté d’avocats comme levier de performance : l’exemple de Solution by HF",
+        "emplacement": "Salle A (niveau -2)",
+        "date": "2025-11-26",
+        "heures": "15:15",
+        "description": "Dans un environnement juridique de plus en plus complexe, la collaboration entre avocats devient un véritable levier de performance. À travers Solution by HF, nous expérimentons une approche fondée sur la confiance entre confrères, le partage d’expériences et la co-construction.\r\nCette intervention présentera les fondements et bénéfices concrets d’une communauté d’avocats conseils en droit des affaires : échanges sur des dossiers complexes, consolidation des pratiques, recommandations croisées, etc.\r\nNous montrerons comment cette dynamique dépasse la logique concurrentielle traditionnelle pour tirer le meilleur de nos expériences et parcours !\r\nIntervenant : François Fagot, avocat président de la société HF SOLUTION."
+      },
+      {
+        "sujet": "La fonction et le rôle des Legalops en cabinets d'avocats",
+        "emplacement": "Amphi Louis Armand Est (niveau -3)",
+        "date": "2025-11-26",
+        "heures": "15:30",
+        "description": "Quelles sont les applications concrètes de l'IA qui ont le plus fort impact sur l'efficacité  opérationnelle et la valeur ajoutée des avocats ? \r\nComment les cabinets peuvent-ils  naviguer entre l'innovation et la nécessité de préserver la confidentialité des données, la responsabilité professionnelle et la pratique juridique ? \r\nComment préparer les avocats d'aujourd'hui et de demain à collaborer efficacement avec l'IA ? \r\nIntervenants:\r\n- Muriel Dossi Gbegnito - Legalops CMS Francis Lefebvre Avocats \r\n- Hyacinthe-Arnaud Tiacoh - Legalops LPA Law \r\n- Amina Ed Daggag - Legalops A&O Sherman."
+      }
+    ]
+  }
+}
